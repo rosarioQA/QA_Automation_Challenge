@@ -1,0 +1,15 @@
+{
+  "typeEmail": "#loginEmail",
+  "typePassword": "#loginPass",
+  "buttonSignIn": "#btSignIn",
+  "toastTitle": ".toast__title",
+  "toastDescription": ".toast__content",
+  "sidebar":"#lt-main-logo",
+  "menuAdministration":"[aria-label='Administration']",
+  "menuRoles": "[aria-label='Roles']",
+  "buttonClone": "[data-testid=roles-button-clone]",
+  "checkboxPermission": ".input-marker",
+  "labelRolePanel": ".panel__title-text",
+  "buttonDeleteRole":"[data-testid='roles-button-delete']",
+  "buttonConfirm": ".button--warning"
+}

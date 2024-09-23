@@ -1,0 +1,25 @@
+# Ignorar node_modules y otros archivos de Cypress en UI_Automation_Exercises
+/UI_Automation_Exercises/node_modules/
+/UI_Automation_Exercises/cypress/screenshots/
+/UI_Automation_Exercises/cypress/videos/
+/UI_Automation_Exercises/.env
+/UI_Automation_Exercises/.cache
+
+# Ignorar archivos de configuración específicos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos de salida de compilación en api_automation_exercises
+/api_automation_exercises/target/
+/api_automation_exercises/.classpath
+/api_automation_exercises/.project
+/api_automation_exercises/.settings/
+/api_automation_exercises/pom.xml.tag
+/api_automation_exercises/pom.xml.releaseBackup
+/api_automation_exercises/pom.xml.versionsBackup
+/api_automation_exercises/*.log
+
+# Ignorar configuraciones de IDE (Eclipse, IntelliJ, VSCode, etc.)
+/.idea/
+/*.iml
+/.vscode/

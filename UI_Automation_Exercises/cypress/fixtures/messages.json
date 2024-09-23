@@ -1,0 +1,15 @@
+{
+  "error": {
+    "title": "Ooops!",
+    "spanishtitle": "¡Ups!",
+    "wrongPassword": "Email o usuario inválido. Inténtalo de nuevo.",
+    "wrongEmail": "E-mail o contraseña incorrectos. Inténtalo de nuevo.",
+    "roleWithoutAlertPermission":"This role has permission to view some alerts, but does not have Triggered alerts permission nor Alert configuration permission."
+  },
+  "success" :{
+    "title": "Well done!",
+    "adminRoleCreated": "Custom role Admin Copy [0-9]+ successfully created.",
+    "testAdminRoleCreated": "Custom role TestAdmin Copy [0-9+] successfully created.",
+    "roleDeleted": "Custom role [a-zA-Z0-9 ]+ successfully deleted."
+  }
+}
